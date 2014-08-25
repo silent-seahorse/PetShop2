@@ -1,0 +1,5 @@
+C:\Users\Stacie S\Documents\Visual Studio 2013\Projects\Take Quiz Backup 2\Take Quiz Backup 2\bin\Take Quiz Backup 2.dll.config
+C:\Users\Stacie S\Documents\Visual Studio 2013\Projects\Take Quiz Backup 2\Take Quiz Backup 2\bin\Take Quiz Backup 2.dll
+C:\Users\Stacie S\Documents\Visual Studio 2013\Projects\Take Quiz Backup 2\Take Quiz Backup 2\bin\Take Quiz Backup 2.pdb
+C:\Users\Stacie S\Documents\Visual Studio 2013\Projects\Take Quiz Backup 2\Take Quiz Backup 2\obj\Debug\Take Quiz Backup 2.dll
+C:\Users\Stacie S\Documents\Visual Studio 2013\Projects\Take Quiz Backup 2\Take Quiz Backup 2\obj\Debug\Take Quiz Backup 2.pdb
